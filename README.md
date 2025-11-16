@@ -13,6 +13,7 @@ AI-powered HR dashboard with **attrition & promotion predictions**, **PDF report
 - Excel export (`hr_data.xlsx`)
 - Secure login with password hashing
 - Applicant job application system
+- On executing the Jupyter Notebook File EDA Report is obtained of IBM Dataset.
 
 # SNAPSHOTS
 Uploaded In Folder named Dashboard
